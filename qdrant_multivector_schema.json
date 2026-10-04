@@ -1,0 +1,17 @@
+{
+  "collection_name": "colpali_multivector_documents",
+  "vectors": {
+    "colpali_patches": {
+      "size": 1024,
+      "distance": "Dot",
+      "multivector_config": {
+        "comparator": "max_sim"
+      },
+      "quantization_config": {
+        "binary": {
+          "always_ram": true
+        }
+      }
+    }
+  }
+}
