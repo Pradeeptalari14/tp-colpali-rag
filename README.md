@@ -1,3 +1,6 @@
+[![Ecosystem](https://img.shields.io/badge/Portfolio%20Ecosystem-341%20Studios-6366f1.svg)](https://pradeeptalari.me/projects/)
+[![Architecture DAG](https://img.shields.io/badge/Architecture-DAG%20%26%20Course-10b981.svg)](https://pradeeptalari.me/tools/repo-learning/)
+
 # 👁️ ColPali Vision-Language Multi-Vector RAG Studio
 
 [![CI SRE Validation](https://github.com/Pradeeptalari14/tp-colpali-rag/actions/workflows/colpali-ci.yml/badge.svg)](https://github.com/Pradeeptalari14/tp-colpali-rag/actions)
@@ -192,3 +195,6 @@ tp-colpali-rag/
 
 - **License:** [MIT License](LICENSE)
 - **Attribution:** Maintained by **[Talari Pradeep](https://talaripradeep.info/)** · AI Infrastructure & Platform SRE Lead
+
+---
+*Synchronized with [ColPali Vision-Language Multi-Vector RAG Studio Studio](https://pradeeptalari.me/tools/colpali-vlm-rag/) & [Repository Learning DAG](https://pradeeptalari.me/tools/repo-learning/) — [Talari Pradeep Portfolio](https://pradeeptalari.me)*
